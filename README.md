@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Anna Edwards-Almendares
 
 - 🔭 I’m currently working on Data Analytics Certificate at Durham College
 - 📫 How to reach me: www.linkedin.com/in/anna-edwards-16018b23a
