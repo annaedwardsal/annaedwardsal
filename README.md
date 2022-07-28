@@ -1,7 +1,7 @@
-### Hi there 👋 I am Anna Edwards-Almendares
+### Hi there 👋 I am Anna 
 
-- 🔭 I’m currently working on Data Analytics Certificate at Durham College
-- 📫 How to reach me: www.linkedin.com/in/anna-edwards-16018b23a
+- 🔭 1202 Data analytics tools 
+-  python file is about filtering the top 1000 rows from youtube.data set 
 <!--
 **annaedwardsal/annaedwardsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
